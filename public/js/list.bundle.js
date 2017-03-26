@@ -1,0 +1,1 @@
+webpackJsonp([1],{15:function(t,e,n){"use strict";n(4);var r=n(5);document.getElementById("root").appendChild(r())},4:function(t,e){},5:function(t,e,n){"use strict";var r=n(6);t.exports=function(){var t=document.createElement("div");return t.textContent=r.greetText,t}},6:function(t,e){t.exports={greetText:"greetings from JSON!"}}},[15]);
